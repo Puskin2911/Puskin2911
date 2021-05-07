@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Puskin2911
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Java and related stuffs and software development.
-- 📫 Reach me with: (https://www.facebook.com/TinhPuskin)[Facebook] or nguyenthehop2000@gmail.com
+- 📫 Reach me with: https://www.facebook.com/TinhPuskin or nguyenthehop2000@gmail.com
 
 <!---
 Puskin2911/Puskin2911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
